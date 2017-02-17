@@ -290,6 +290,7 @@ tazobactam
 teicoplanin
 telavancin
 telithromycin
+temocillin
 tetracycline
 tetroxoprim
 thiamphenicol
@@ -322,3 +323,4 @@ vernamycin C
 vertilimicin
 viomycin
 virginiamycin S2
+
